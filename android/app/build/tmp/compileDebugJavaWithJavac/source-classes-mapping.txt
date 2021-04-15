@@ -1,0 +1,14 @@
+com/boxclub/MainApplication.java
+ com.boxclub.MainApplication
+ com.boxclub.MainApplication$1
+com/boxclub/ReactNativeFlipper.java
+ com.boxclub.ReactNativeFlipper
+ com.boxclub.ReactNativeFlipper$1
+ com.boxclub.ReactNativeFlipper$2
+ com.boxclub.ReactNativeFlipper$2$1
+com/boxclub/BuildConfig.java
+ com.boxclub.BuildConfig
+com/boxclub/MainActivity.java
+ com.boxclub.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

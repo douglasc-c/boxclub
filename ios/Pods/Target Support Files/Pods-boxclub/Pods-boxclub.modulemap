@@ -1,0 +1,6 @@
+module Pods_boxclub {
+  umbrella header "Pods-boxclub-umbrella.h"
+
+  export *
+  module * { export * }
+}

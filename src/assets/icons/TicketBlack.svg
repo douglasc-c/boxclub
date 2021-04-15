@@ -1,0 +1,29 @@
+<svg id="tickets" xmlns="http://www.w3.org/2000/svg" width="29.495" height="29.495" viewBox="0 0 29.495 29.495">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #151515;
+      }
+    </style>
+  </defs>
+  <g id="Group_23" data-name="Group 23" transform="translate(0 0)">
+    <g id="Group_22" data-name="Group 22">
+      <path id="Path_108" data-name="Path 108" class="cls-1" d="M25.847,7.386,25.236,8A2.644,2.644,0,0,1,21.5,4.259l.611-.611L18.461,0,0,18.461l3.648,3.648.611-.611A2.644,2.644,0,0,1,8,25.236l-.611.611,3.648,3.648L29.495,11.034ZM9.771,25.787a4.374,4.374,0,0,0-6.063-6.063L2.444,18.461,18.461,2.444l1.263,1.263a4.374,4.374,0,0,0,6.063,6.063l1.263,1.263L11.034,27.05Z"/>
+    </g>
+  </g>
+  <g id="Group_25" data-name="Group 25" transform="translate(16 11.046)">
+    <g id="Group_24" data-name="Group 24" transform="translate(0 0)">
+      <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="1.728" height="1.735" transform="translate(0 1.222) rotate(-45)"/>
+    </g>
+  </g>
+  <g id="Group_27" data-name="Group 27" transform="translate(13.546 8.591)">
+    <g id="Group_26" data-name="Group 26" transform="translate(0 0)">
+      <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-1" width="1.728" height="1.735" transform="translate(0 1.222) rotate(-45)"/>
+    </g>
+  </g>
+  <g id="Group_29" data-name="Group 29" transform="translate(18.454 13.5)">
+    <g id="Group_28" data-name="Group 28" transform="translate(0 0)">
+      <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-1" width="1.728" height="1.735" transform="translate(0 1.222) rotate(-45)"/>
+    </g>
+  </g>
+</svg>
