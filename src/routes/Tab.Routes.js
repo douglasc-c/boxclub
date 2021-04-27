@@ -10,6 +10,7 @@ import TicketBlack from '../assets/icons/TicketBlack'
 import AccountBlack from '../assets/icons/AccountBlack'
 
 import Home from '../pages/main/Home'
+import Settings from '../pages/Settings/Settings'
 
 const DEVICE_HEIGHT = Dimensions.get('screen').height;
 const DEVICE_WIDTH = Dimensions.get('screen').width;
@@ -30,7 +31,7 @@ function HomeStack() {
 }
 function CodeStack() {
     return (
-        <Stack.Navigator initialRouteName="Initial">
+        <Stack.Navigator>
             <Stack.Screen
                 name="Initial"
                 component={Home}
@@ -41,7 +42,7 @@ function CodeStack() {
 }
 function TicketStack() {
     return (
-        <Stack.Navigator initialRouteName="Initial">
+        <Stack.Navigator>
             <Stack.Screen
                 name="Initial"
                 component={Home}
@@ -52,10 +53,10 @@ function TicketStack() {
 }
 function SettingStack() {
     return (
-        <Stack.Navigator initialRouteName="Initial">
+        <Stack.Navigator>
             <Stack.Screen
-                name="Initial"
-                component={Home}
+                name="Settings"
+                component={Settings}
                 options={{ headerShown: false }}
             />
         </Stack.Navigator>

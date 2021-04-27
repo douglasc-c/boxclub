@@ -1,6 +1,6 @@
 import React from 'react'
 import { TextInput, Dimensions, StyleSheet } from "react-native"
-// import { RFPercentage } from 'react-native-responsive-fontsize'
+import { RFPercentage } from 'react-native-responsive-fontsize'
 
 const Input = ({ ...rest }) => {
     return (
