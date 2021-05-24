@@ -36,62 +36,6 @@ const SwiperShoes = ({ ...rest }) => {
                         <Text style={styles.dataPrize}>03/04/2021</Text>
                     </LinearGradient>
                 </View>
-                <View style={styles.swiperContainerTwo}>
-                    <LinearGradient
-                        colors={['#4FFC91', '#3FC974']}
-                        size="small"
-                        rounded
-                        onPress={() => console.log("Works!")}
-                        activeOpacity={0.7}
-                        style={styles.infoWinner}>
-                        <Text style={styles.nameShoeTwo}>Air Jordan 1 Dark Mocha</Text>
-                        <Text style={styles.nameWinner}>IVAN OLIVEIRA</Text>
-                        <Text style={styles.infoData}>SORTEIO FINALIZADO EM:</Text>
-                        <Text style={styles.dataPrize}>03/04/2021</Text>
-                    </LinearGradient>
-                </View>
-                <View style={styles.swiperContainerTwo}>
-                    <LinearGradient
-                        colors={['#4FFC91', '#3FC974']}
-                        size="small"
-                        rounded
-                        onPress={() => console.log("Works!")}
-                        activeOpacity={0.7}
-                        style={styles.infoWinner}>
-                        <Text style={styles.nameShoeTwo}>Air Jordan 1 Dark Mocha</Text>
-                        <Text style={styles.nameWinner}>FABRICIO OLIVEIRA</Text>
-                        <Text style={styles.infoData}>SORTEIO FINALIZADO EM:</Text>
-                        <Text style={styles.dataPrize}>03/04/2021</Text>
-                    </LinearGradient>
-                </View>
-                <View style={styles.swiperContainerTwo}>
-                    <LinearGradient
-                        colors={['#4FFC91', '#3FC974']}
-                        size="small"
-                        rounded
-                        onPress={() => console.log("Works!")}
-                        activeOpacity={0.7}
-                        style={styles.infoWinner}>
-                        <Text style={styles.nameShoeTwo}>Air Jordan 1 Dark Mocha</Text>
-                        <Text style={styles.nameWinner}>RONALDO OLIVEIRA</Text>
-                        <Text style={styles.infoData}>SORTEIO FINALIZADO EM:</Text>
-                        <Text style={styles.dataPrize}>03/04/2021</Text>
-                    </LinearGradient>
-                </View>
-                <View style={styles.swiperContainerTwo}>
-                    <LinearGradient
-                        colors={['#4FFC91', '#3FC974']}
-                        size="small"
-                        rounded
-                        onPress={() => console.log("Works!")}
-                        activeOpacity={0.7}
-                        style={styles.infoWinner}>
-                        <Text style={styles.nameShoeTwo}>Air Jordan 1 Dark Mocha</Text>
-                        <Text style={styles.nameWinner}>IVAN OLIVEIRA</Text>
-                        <Text style={styles.infoData}>SORTEIO FINALIZADO EM:</Text>
-                        <Text style={styles.dataPrize}>03/04/2021</Text>
-                    </LinearGradient>
-                </View>
             </Swiper>
         </View>
     )
